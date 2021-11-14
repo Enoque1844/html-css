@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T20:17:04.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QPZJw-xEp8_S1QaXLmma" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T20:20:55.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Get1h3RCyNKwtfCPpI8i" version="15.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="6339" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -488,6 +488,9 @@
         </mxCell>
         <mxCell id="Wzc2rEjhIDLnKcr3N48x-110" value="&lt;b&gt;Exercicio_8&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="368" y="1267" width="105" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Wzc2rEjhIDLnKcr3N48x-111" value="&lt;b&gt;Exercicios de&amp;nbsp;&lt;span lang=&quot;EN-CA&quot;&gt;fixa&lt;/span&gt;&lt;span lang=&quot;EN-CA&quot;&gt;çã&lt;/span&gt;&lt;span lang=&quot;EN-CA&quot;&gt;o de fluxograma terceiro bloco.&lt;/span&gt;&lt;/b&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-CA&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="83.5" y="-5523" width="426" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
