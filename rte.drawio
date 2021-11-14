@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T19:28:43.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GOqccsfLrpUtNQ-uQ5Tj" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T19:29:01.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6qpO5Lc62XD_vMKzMdK1" version="15.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="6339" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -361,7 +361,7 @@
           <mxGeometry x="390" y="1514" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wzc2rEjhIDLnKcr3N48x-40" value="delta = (b^2) - 4 *a *c" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="553.5" y="1534" width="180.5" height="54" as="geometry" />
+          <mxGeometry x="571" y="1537" width="180.5" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Wzc2rEjhIDLnKcr3N48x-45" value="&lt;p class=&quot;MsoNormal&quot;&gt;A equação não é do segundo grau&lt;/p&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="53" y="1534" width="277" height="60" as="geometry" />
